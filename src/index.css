@@ -2,6 +2,14 @@
 @tailwind components;
 @tailwind utilities;
 
+@layer base {
+    @font-face {
+      font-family: 'Chomsky';
+      src: url("./assets/Chomsky.otf") format("opentype");
+    }
+  }
+    
+
 :root {
     background: gray;
 }

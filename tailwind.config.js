@@ -1,4 +1,5 @@
 /** @type {import('tailwindcss').Config} */
+
 export default {
   content: [
     "./index.html",
@@ -6,8 +7,8 @@ export default {
   ],
   theme: {
     extend: {
-      boxShadow: { 'pixel': '5px 5px 3px 0' }
-    },
+      boxShadow: { 'pixel': '5px 5px 1px 0' }
+    }
   },
   plugins: [],
 }
