@@ -8,7 +8,11 @@ export default {
   theme: {
     extend: {
       boxShadow: { 'pixel': '5px 5px 1px 0' }
-    }
+    },
+    fontFamily: {
+      sans: ['Raleway', 'sans-serif'],
+      serif: ['Merriweather', 'serif'],
+    },
   },
   plugins: [],
 }
