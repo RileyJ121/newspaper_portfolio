@@ -11,7 +11,7 @@ export default {
     },
     fontFamily: {
       sans: ['Raleway', 'sans-serif'],
-      serif: ['Merriweather', 'serif'],
+      serif: ['Lora', 'serif'],
     },
   },
   plugins: [],
